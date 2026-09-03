@@ -1,0 +1,9 @@
+reference,component_type,nominal_value,measured_value,tolerance_percent,esr_ohm,max_esr_ohm,forward_voltage_v,reverse_leakage_ua
+R1,resistor,1000,1008,5,,,,
+R2,resistor,4700,6200,5,,,,
+R3,resistor,10000,0.2,5,,,,
+C1,capacitor,100,96,10,0.18,0.5,,
+C2,capacitor,47,45,10,2.4,1.0,,
+D1,diode,,,,,,0.68,0.4
+D2,diode,,,,,,0.03,0.2
+D3,diode,,,,,,0.71,24
